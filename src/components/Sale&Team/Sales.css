@@ -1,0 +1,99 @@
+.SaleMainDiv {
+    margin-top: 156rem;
+    height: 90rem;
+    width: 100%;
+    background-color: white;
+    position: absolute;
+    text-align: center;
+    /* margin-left: 11%; */
+}
+
+.slH1 {
+    font: normal normal bold 58px/41px Montserrat;
+    letter-spacing: -2.23px;
+    color: #3C3D41;
+    opacity: 1;
+}
+
+.slP {
+    font: normal normal normal 30px/36px PT Serif;
+    letter-spacing: 0px;
+    color: #656B6F;
+    opacity: 1;
+}
+
+.saleDiv {
+    height: 350px;
+    width: 260px;
+    margin: 5px 18px;
+    background-color: white;
+    text-align: center;
+    border-radius: 4px;
+    opacity: 1;
+    box-shadow: 0px 5px 20px #BABABA85;
+}
+
+.saleDiv img {
+    height: 220px;
+    width: 260px;
+}
+
+.SlCrdMnDv {
+    width: 1300px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 50px;
+    background-color: white;
+    margin-left: 250px;
+}
+/* ////////////////////////// Team main div start /////////////// */
+.TeammainDiv{
+    height: 600px;
+    width: 600px;
+    background-color: white;
+    margin-top: 140px;
+    position: absolute;
+    margin-left: 880px;
+}
+.TeammainDiv h3{
+    text-align: left;
+font: normal normal bold 14px/16px Montserrat;
+letter-spacing: 2px;
+color: #3C3D41;
+opacity: 1;
+}
+.TeamImgD{
+text-align: left;
+}
+.TeamImgD img{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.TeamDiv2{
+    height: 800px;
+    width: 900px;
+    background-color: white;
+    margin-top: 50px;
+
+}
+.TeamDiv2 img{
+    height: 700px;
+ margin-left: 300px;   
+}
+.teamD{
+    text-align: start;
+}
+.teamD p{
+    font: normal normal normal 18px/27px PT Serif;
+letter-spacing: 0px;
+color: #656B6F;
+opacity: 1;
+}
+
+.teamD h1{
+    font: normal normal bold 36px/39px Montserrat;
+letter-spacing: 0px;
+color: #3C3D41;
+opacity: 1;
+margin-top: 60px;
+}

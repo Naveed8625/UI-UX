@@ -1,0 +1,118 @@
+.proMainDiv {
+    height: 120rem;
+    width: 100%;
+    background-color: white;
+    position:absolute;
+    margin: 500px 0px;
+}
+
+#proD1 {
+    height: 400px;
+    width: 440px;
+    background-color: white;
+    position: absolute;
+    margin: 250px 290px;
+}
+
+.proP {
+    text-align: left;
+    font: normal normal bold 12px/15px Montserrat;
+    letter-spacing: 2.18px;
+    color: #3C3D41;
+    opacity: 1;
+}
+
+.proH1 {
+    text-align: left;
+    font: normal normal bold 52px/55px Montserrat;
+    letter-spacing: -2px;
+    color: #3C3D41;
+    opacity: 1;
+}
+
+.proH5 {
+    text-align: left;
+    font: normal normal normal 20px/26px PT Serif;
+    letter-spacing: 0px;
+    color: #656B6F;
+    opacity: 1;
+}
+
+.proButt {
+    height: 40px;
+    width: 190px;
+    background: rgb(9, 136, 204);
+    border-radius: 40px;
+    opacity: 1;
+    margin-left: 70px;
+}
+
+#proD2 {
+    height: 700px;
+    width: 80%;
+    background: transparent url('Image.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 50px;
+    margin-left: 250px;
+    /* position: absolute; */
+}
+
+#proD3 {
+    height: 250px;
+    width: 900px;
+    background-color: white;
+    margin-left: 420px;
+    margin-top: 100px;
+}
+
+.D3P {
+    text-align: center;
+    font: normal normal bold 15px/18px Montserrat;
+    letter-spacing: 2.18px;
+    color: #3C3D41;
+    opacity: 1;
+}
+
+.D3h1 {
+    text-align: center;
+    font: normal normal bold 67px/60px Montserrat;
+    letter-spacing: -2.px;
+    color: #3C3D41;
+    opacity: 1;
+}
+
+.D3a a {
+    /* text-align: left; */
+    font: normal normal bold 14px/15px Montserrat;
+    letter-spacing: 2px;
+    color: #656B6F;
+    opacity: 1;
+    margin-left: 50px;
+}
+
+.D3a {
+    margin-left: 100px;
+
+}
+
+.aa {
+    color: #FFFFFF;
+    background-color: #656B6F;
+    padding: 5px 5px 5px 5px;
+    border-radius: 40px;
+    opacity: 1;
+
+}
+
+.proD4{
+    height: 700px;
+    width: 75rem;
+    background-color: white;
+    margin: 1% 16%;
+}
+
+.proD4 img{
+    height: 340px;
+    width: 260px;
+    margin: 5px 18px;
+}
